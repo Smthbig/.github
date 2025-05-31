@@ -43,12 +43,12 @@ We believe the terminal is the future of development.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moHaN-ShaArmA&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrajauriya&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api?username=Krishna-85&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=moHaN-ShaArmA&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://streak-stats.demolab.com/?user=mrajauriya&theme=tokyonight&hide_border=true" width="45%" />
   <img src="https://streak-stats.demolab.com/?user=Krishna-85&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
@@ -73,7 +73,7 @@ We believe the terminal is the future of development.
 
 ---
 
-## 📬 Let’s Connect
+
 
 ## 📬 Let’s Connect
 
