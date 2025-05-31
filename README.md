@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohan%20Sharma%20%26%20Krishna%20Chauhan&fontSize=40&fontAlignY=35&desc=Smthbig%20%7C%20Automation%20%7C%20Open%20Source&descAlignY=55&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Something%20Big%20🚀&fontSize=40&fontAlignY=35&desc=Dev%20%7C%20krishna%20%7C%20Mohan&descAlignY=55&animation=twinkling" />
 </p>
 
 ---
@@ -43,21 +43,19 @@ We believe the terminal is the future of development.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moHaN-ShaArmA&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="47%" />
-  <img src="https://streak-stats.demolab.com/?user=moHaN-ShaArmA&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moHaN-ShaArmA&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Krishna-85&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="45%" />
 </p>
-
----
-
-## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/moHaN-ShaArmA/moHaN-ShaArmA/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://streak-stats.demolab.com/?user=moHaN-ShaArmA&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://streak-stats.demolab.com/?user=Krishna-85&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 ---
 
-## 🔧 What We'\''re Building
+
+## 🔧 What We're Building
 
 - 💻 Terminal-first Android Dev Tools  
 - 🤖 AI-assisted GitHub & Bash utilities  
@@ -77,22 +75,29 @@ We believe the terminal is the future of development.
 
 ## 📬 Let’s Connect
 
+## 📬 Let’s Connect
+
 <p align="center">
-  <a href="https://instagram.com/mohan_rajauriya" target="_blank">
-    <img src="https://img.shields.io/badge/@mohan_rajauriya-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://github.com/mrajauriya" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Mohan%20Sharma-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Mohan Sharma" />
   </a>
-  <a href="https://github.com/Smthbig" target="_blank">
-    <img src="https://img.shields.io/badge/Smthbig%20Org-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Krishna-85" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Krishna%20Chauhan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Krishna Chauhan" />
+  </a>
+  <a href="https://github.com/Smthbig" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Smthbig%20Org-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Organization Smthbig" />
   </a>
 </p>
-
 ---
 
 <p align="center">
-  <em>Thanks for visiting — let’s make something legendary at <strong>Smthbig</strong>.</em><br>
-  <img src="https://img.shields.io/badge/CLI4Life-00F5FF?style=flat-square&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/AndroidDev-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenSourceAlways-181717?style=flat-square&logo=github&logoColor=white" />
+  <em>Thanks for visiting — let’s make something legendary at <strong>Smthbig</strong>.</em><br />
+  <img src="https://img.shields.io/badge/CLI4Life-00F5FF?style=flat-square&logo=gnubash&logoColor=white" alt="CLI4Life badge" />
+  <img src="https://img.shields.io/badge/AndroidDev-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android Developer badge" />
+  <img src="https://img.shields.io/badge/OpenSourceAlways-181717?style=flat-square&logo=github&logoColor=white" alt="Open Source badge" />
 </p>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+</div>
 <!-- PROFILE README END -->
