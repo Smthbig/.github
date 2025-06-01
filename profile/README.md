@@ -35,8 +35,9 @@ We believe the terminal is the future of development.
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,kotlin,java,androidstudio,git,github,linux,vim,gradle,regex,githubactions,figma" />
+  <img src="https://skillicons.dev/icons?i=bash,kotlin,java,androidstudio,git,github,linux,vim,gradle,regex,githubactions,figma,html,css,js,react,nodejs,mongodb,express" />
 </p>
+
 
 ---
 
