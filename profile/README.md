@@ -12,8 +12,8 @@
 
 ## 🚀 About Us
 
-We believe the terminal is the future of development.  
-**Smthbig** is our initiative to empower developers with CLI-first tools, mobile workflows, and open-source magic.
+We believe the Automation & AI is the future of development.  
+**Smthbig** is our initiative to empower developers with Automate-first tools, mobile workflows, and open-source magic.
 
 - 🛠️ Makers of **Ramm health care**, **Smrtask**, and **Git Genius**
 - 📦 Experts in Compose, Kotlin, Gradle, and GitHub   
@@ -24,7 +24,7 @@ We believe the terminal is the future of development.
 
 ## 🏛️ Smthbig — Our Dev Org
 
-> Bold terminal tools, built for devs like us.
+> Bold Automated tools, built for devs like us.
 
 - 🚀 Founded by [@mrajauriya](https://github.com/mrajauriya) and [@krishna-85](https://github.com/krishna-85)  
 - 🌱 A hub for mobile-native, offline-ready, automation-first projects  
@@ -35,7 +35,7 @@ We believe the terminal is the future of development.
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,kotlin,java,androidstudio,git,github,linux,vim,gradle,regex,githubactions,figma,html,css,js,react,nodejs,mongodb,express" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,git,github,gradle,regex,html,css,js,react,nodejs,mongodb,express" />
 </p>
 
 
