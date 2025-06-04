@@ -15,8 +15,8 @@
 We believe the terminal is the future of development.  
 **Smthbig** is our initiative to empower developers with CLI-first tools, mobile workflows, and open-source magic.
 
-- 🛠️ Makers of **Git Genius**, **AndroidPE**, and **AndroidIDE**  
-- 📦 Experts in Bash, Kotlin, Gradle, and GitHub Actions  
+- 🛠️ Makers of **Ramm health care**, **Smrtask**, and **Git Genius**
+- 📦 Experts in Compose, Kotlin, Gradle, and GitHub   
 - 🔐 Building secure, AI-powered tools that work even offline  
 - 💡 Focused on simplicity, power, and real-world developer needs
 
@@ -58,11 +58,10 @@ We believe the terminal is the future of development.
 
 ## 🔧 What We're Building
 
-- 💻 Terminal-first Android Dev Tools  
-- 🤖 AI-assisted GitHub & Bash utilities  
+- 💻 Love Automation & Ai Integration 
+- 🤖 AI-assisted  
 - 🔄 CI/CD pipelines that work offline  
-- 🧩 Custom mobile development environments  
-- 🔐 Secure Git authentication with PATs
+- 🧩 Love Material themes, icon & vector   
 
 ---
 
