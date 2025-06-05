@@ -1,0 +1,41 @@
+name: Update Smthbig Org Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Org Stats
+        run: |
+          curl -s https://api.github.com/orgs/Smthbig/repos?per_page=100 |
+          jq '[.[] | {stars: .stargazers_count, forks: .forks_count}]' > repos.json
+
+          STARS=$(jq '[.[].stars] | add' repos.json)
+          FORKS=$(jq '[.[].forks] | add' repos.json)
+          REPOS=$(cat repos.json | jq length)
+          CONTRIBUTORS=$(curl -s https://api.github.com/orgs/Smthbig/members?per_page=100 | jq length)
+          DATE=$(date "+%d %B %Y")
+
+          echo "## 📊 Smthbig Organization Stats" > ORG_STATS.md
+          echo "" >> ORG_STATS.md
+          echo "- 🗂 Total Public Repos: $REPOS" >> ORG_STATS.md
+          echo "- ⭐ Total Stars: $STARS" >> ORG_STATS.md
+          echo "- 🍴 Total Forks: $FORKS" >> ORG_STATS.md
+          echo "- 👥 Total Contributors: $CONTRIBUTORS" >> ORG_STATS.md
+          echo "- 🕒 Last Updated: $DATE" >> ORG_STATS.md
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@users.noreply.github.com'
+          git pull
+          git add ORG_STATS.md
+          git commit -m "🔄 Update Smthbig org stats"
+          git push
+          
