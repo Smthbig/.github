@@ -16,7 +16,7 @@ We believe **Automation, Mobility, and AI** are shaping the future of developmen
 **Smthbig** is our dev-powered movement to build tools that run fast, work offline-online, and think ahead.
 
 ### 🧩 Our Flagship Projects
-- 🩺 **[Ramm Health Care](https://github.com/Smthbig/Ramm)** – AI-powered clinic data system, Excel-first + Google Drive sync  
+- 🩺 **[Ramm Health Care](https://github.com/Smthbig/Ramm)** – AI-powered clinic data system, Pdf-first + Offline Management + Automated
 - ⚡ **[Git Genius](https://github.com/Smthbig/git-genius)** – Advanced terminal toolkit with offline mode, GPG, commit AI  
 - 🤖 **[Smrtask](https://github.com/Smthbig/smrtask)** – Gemini-powered mobile task assistant with HTML/CSS rendering, chat memory, PDF
 
