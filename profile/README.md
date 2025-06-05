@@ -13,7 +13,7 @@
 ## 🚀 About Us
 
 We believe **Automation, Mobility, and AI** are shaping the future of development.  
-**Smthbig** is our dev-powered movement to build tools that run fast, work offline, and think ahead.
+**Smthbig** is our dev-powered movement to build tools that run fast, work offline-online, and think ahead.
 
 ### 🧩 Our Flagship Projects
 - 🩺 **[Ramm Health Care](https://github.com/Smthbig/Ramm)** – AI-powered clinic data system, Excel-first + Google Drive sync  
