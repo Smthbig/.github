@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Smthbig%20Org%20🚀&fontSize=42&fontAlignY=35&desc=Crafting%20Automation-first%20Tools%20for%20Tomorrow's%20Developers&descAlignY=55&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Smthbig%20Org%20🚀&fontSize=42&fontAlignY=35&desc=Crafting%20Automation-first%20Tools%20for%20Tomorrow&descAlignY=55&animation=twinkling" />
 </p>
 
 ---
