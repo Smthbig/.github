@@ -36,17 +36,9 @@ We believe **Automation, Mobility, and AI** are shaping the future of developmen
 
 > Native first. Automation-driven. Open Source forever.
 
-- 🚀 Founded by [@mrajauriya](https://github.com/mrajauriya) and [@krishna-85](https://github.com/krishna-85)  
+- 🚀 Founded by [@algospider](https://github.com/algospider) and [@krishna-85](https://github.com/krishna-85)  
 - 🌱 We build for terminal users, mobile-first devs, and power coders  
 - 📌 GitHub: [github.com/Smthbig](https://github.com/Smthbig)
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,git,github,bash,regex,html,css,js,nodejs,react,mongodb" />
-</p>
 
 ---
 
@@ -71,7 +63,7 @@ We believe **Automation, Mobility, and AI** are shaping the future of developmen
 ## 📬 Let’s Connect
 
 <p align="center">
-  <a href="https://github.com/mrajauriya" target="_blank">
+  <a href="https://github.com/algospider" target="_blank">
     <img src="https://img.shields.io/badge/Mohan%20Sharma-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/Krishna-85" target="_blank">
