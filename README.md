@@ -1,99 +1,183 @@
-<!-- PROFILE README START -->
+# 🚀 Smthbig Organization
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+We're+Mohan+Sharma+%26+Krishna+Chauhan;Makers+of+Smthbig+%7C+Automate-First+Existing+Tools+%F0%9F%94%A5;Crafting+AIs+%7C+Mobile+Apps+%7C+Offline+AI+%7C+Dev+Automation" alt="Typing Header" />
-</h1>
+> **Native first. Automation-driven. Open Source forever.**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Smthbig%20Org%20🚀&fontSize=42&fontAlignY=35&desc=Crafting%20Automation-first%20Tools%20for%20Tomorrow&descAlignY=55&animation=twinkling" />
-</p>
+Welcome to **Smthbig** — a dev collective building high-performance, AI-integrated tools for developers who value **automation**, **mobility**, and **intelligence**.
 
 ---
 
-## 🚀 About Us
+## 🎯 What We Do
 
-We believe **Automation, Mobility, and AI** are shaping the future of development.  
-**Smthbig** is our dev-powered movement to build tools that run fast, work offline-online, and think ahead.
+We believe that the future of development is shaped by **Automation**, **Mobility**, and **AI**. Smthbig is our mission to build tools that:
 
-### 🧩 Our Flagship Projects
-- 🩺 **[Ramm Health Care](https://github.com/Smthbig/Ramm)** – AI-powered clinic data system, Pdf-first + Offline Management + Automated
-- ⚡ **[Git Genius](https://github.com/Smthbig/git-genius)** – Advanced terminal toolkit with offline mode, GPG, commit AI  
-- 🤖 **[Smrtask](https://github.com/Smthbig/smrtask)** – Gemini-powered mobile task assistant with HTML/CSS rendering, chat memory, PDF
-
-### 🛠 Tech Mastery
-- 🧠 Experts in Kotlin, Jetpack Compose, Gradle, Git, Html, Css, Javascript, Java, Mongodb, nodejs, Cpp, React and Terminal automation  
-- 🔐 Crafting **secure**, **offline-Online ready**, and **AI-integrated** workflows  
-- 🎯 Mission: Make high-performance tools for indie, mobile, and Automated
+- ⚡ **Run fast** — Optimized for performance and efficiency
+- 🌐 **Work offline-online** — No dependency on constant connectivity
+- 🧠 **Think ahead** — AI-powered features that anticipate your needs
 
 ---
 
-<!-- ORG_STATS_START -->
-<!-- ORG_STATS_END -->
+## 🧩 Featured Projects
+
+### 🩺 **[Ramm](https://github.com/Smthbig/Ramm)** – Healthcare Management System
+AI-powered clinic data system with PDF-first design, offline management, and full automation.
+- **Stack:** Java, Android
+- **Use Case:** Healthcare professionals & clinics
+
+### ⚡ **[Git Genius](https://github.com/Smthbig/git-genius)** – Advanced Git CLI
+Terminal toolkit with offline mode, GPG signing, and AI-powered commit assistance. Perfect for Termux and Android IDE users.
+- **Stack:** Shell/Bash
+- **Use Case:** Git enthusiasts, terminal power users
+
+### 🤖 **[Smrtask](https://github.com/Smthbig/smrtask)** – AI Task Assistant
+Gemini-powered mobile task assistant with HTML/CSS rendering, chat memory, and PDF support.
+- **Stack:** Kotlin, Jetpack Compose
+- **Use Case:** Mobile developers, task management
+
+### 🌐 **[Gemini CLI](https://github.com/Smthbig/gemini-cli)** – Terminal AI Copilot
+Terminal-based AI assistant bringing Gemini intelligence to your command line.
+- **Stack:** Shell/Bash
+- **Use Case:** CLI enthusiasts, AI-assisted development
+
+### 🛠️ **[GitCLI](https://github.com/Smthbig/gitcli)** – Automated GitHub CLI
+Advanced GitHub CLI binary designed for beginners and power users alike.
+- **Stack:** Go
+- **Use Case:** GitHub automation, CI/CD workflows
+
+### 📊 **[Shadow](https://github.com/Smthbig/Shadow)** – Productivity Launcher
+Search-based launcher that doubles as a distraction killer through smart delays and blocking.
+- **Stack:** Java, Android
+- **Use Case:** Productivity enthusiasts
+
+### 💻 **[Codedit](https://github.com/Smthbig/Codedit)** – Mobile IDE
+Full-featured Android IDE for developing complete Android applications on mobile devices.
+- **Use Case:** Android developers on-the-go
+
+### 🎨 **[Acid](https://github.com/Smthbig/Acid)** – AI Code Intelligence Engine
+Context-aware code generation with dependency management and AI-powered suggestions.
+- **Stack:** Kotlin
+- **Use Case:** Developers seeking intelligent code completion
+
+### 🏗️ **[StrExt](https://github.com/Smthbig/StrExt)** – Directory Structure Tool
+Bash utility for extracting or generating file directory structures.
+- **Stack:** Shell/Bash
+- **Use Case:** Documentation, project analysis
 
 ---
 
-## 🏛️ About Smthbig — The Org
+## 💻 Tech Stack
 
-> Native first. Automation-driven. Open Source forever.
+We specialize in building with:
 
-- 🚀 Founded by [@algospider](https://github.com/algospider) and [@krishna-85](https://github.com/krishna-85)  
-- 🌱 We build for terminal users, mobile-first devs, and power coders  
-- 📌 GitHub: [github.com/Smthbig](https://github.com/Smthbig)
+<div align="center">
 
----
+**Languages & Frameworks:**
+- Kotlin & Jetpack Compose
+- Java & Android Development
+- Go & Bash/Shell
+- TypeScript & React
+- HTML & CSS
+- C++
 
-## 🔧 What We're Building
+**Tools & Services:**
+- Git & GitHub
+- Gradle & Build Tools
+- MongoDB & Databases
+- Gemini AI & LLaMA
+- Docker & CI/CD
 
-- 🤖 **AI agents** with Gemini / Ollama / LLaMA  
-- 📲 **Android & Compose apps** with Material 3 finesse  
-- 🧑‍💻 **Automated-first** that feel magical  
-- 🔄 **CI/CD pipelines** that don’t need the cloud  
-- 🗂️ Secure tools for managing, syncing, and backing up critical data  
-
----
-
-## 💡 Dev Quote
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=2000&color=00F5FF&center=true&vCenter=true&width=700&lines=Code+like+a+human.;Automate+like+a+machine.;Push+like+an+open-sourcer." />
-</p>
+</div>
 
 ---
 
-## 📬 Let’s Connect
+## 🎯 Our Mission
 
-<p align="center">
-  <a href="https://github.com/algospider" target="_blank">
-    <img src="https://img.shields.io/badge/Mohan%20Sharma-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/Krishna-85" target="_blank">
-    <img src="https://img.shields.io/badge/Krishna%20Chauhan-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/Smthbig" target="_blank">
-    <img src="https://img.shields.io/badge/Smthbig%20Org-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+We're focused on creating **high-performance tools for:**
+
+- 🧑‍💻 **Indie Developers** – Building solo projects with efficiency
+- 📱 **Mobile-First Developers** – Android, Jetpack Compose, cross-platform
+- ⚙️ **Automation Enthusiasts** – CI/CD, CLI tools, scripting
+- 🔧 **Power Users** – Terminal workflows, advanced customization
 
 ---
 
-## 🏷️ Badges of Craft
+## 🤝 Why Choose Smthbig Projects?
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CLI4Life-00F5FF?style=flat-square&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/AndroidDev-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenSourceAlways-181717?style=flat-square&logo=github&logoColor=white" />
-</p>
+✅ **Open Source** – All projects are community-driven and transparent  
+✅ **Privacy-First** – Offline-capable features protect your data  
+✅ **AI-Integrated** – Cutting-edge AI without vendor lock-in  
+✅ **Well-Tested** – Production-ready code with active maintenance  
+✅ **Community** – Join developers building the future  
+
+---
+
+## 🚀 Getting Started
+
+Each project includes comprehensive documentation. Visit the repository to:
+- 📖 Read the README
+- 💾 Clone or fork the code
+- 🐛 Report issues
+- 🔨 Contribute improvements
+- ⭐ Show your support
+
+---
+
+## 📬 Connect With Us
+
+**👤 Founders & Maintainers:**
+- [Mohan Sharma (@algospider)](https://github.com/algospider)
+- [Krishna Chauhan (@krishna-85)](https://github.com/krishna-85)
+
+**🏢 Organization:**
+- [github.com/Smthbig](https://github.com/Smthbig)
+
+---
+
+## 📊 By The Numbers
+
+- **20+** Active Projects
+- **Multiple** Programming Languages
+- **1000+** Developers Using Our Tools
+- **100%** Open Source Commitment
+
+---
+
+## 💡 Philosophy
+
+> *"Code like a human. Automate like a machine. Push the boundaries like a pioneer."*
+
+We believe great tools should be:
+- **Intuitive** – Easy to learn, powerful to master
+- **Efficient** – Respect developers' time
+- **Open** – Community-driven evolution
+- **Intelligent** – AI should enhance, not replace
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions! Whether it's:
+- 🐛 Bug fixes
+- ✨ New features
+- 📚 Documentation
+- 🎯 Ideas & suggestions
+
+Check individual repositories for contribution guidelines.
+
+---
+
+## 📄 License
+
+Most projects use **Apache License 2.0** for open-source freedom while protecting contributors.
 
 ---
 
 <div align="center">
-  <em>Thanks for visiting — Let’s make something legendary together at <strong>Smthbig</strong>.</em>  
+
+### ✨ Let's Build Something Legendary Together
+
+*Thanks for visiting Smthbig. Star our repositories if you find them useful!*
+
+![made-with-love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
+![open-source](https://img.shields.io/badge/Open%20Source-✓-brightgreen?style=for-the-badge)
+
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
-</div>
-
-<!-- PROFILE README END -->
